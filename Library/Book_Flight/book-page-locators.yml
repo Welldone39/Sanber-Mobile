@@ -1,0 +1,4 @@
+spinner_from:       //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerFrom"]
+country_name_from:  //android.widget.TextView[@resource-id="android:id/text1" and @text="New York"]
+spinner_to:         //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerTo"]
+country_name_to:    //android.widget.TextView[@resource-id="android:id/text1" and @text="London"]
